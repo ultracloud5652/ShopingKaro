@@ -1,3 +1,6 @@
 # .gitignore
 node_modules/
 ./helper/database.js
+npm-debug.log
+Dockerfile
+.git
